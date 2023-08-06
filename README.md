@@ -1,7 +1,5 @@
 ## Olá 👽️
 
-
-👍️ Me chamo Davi Henrique, <br>
 ☕️  sou viciado em café e <br>
 👨‍💻 às vezes crio uns bugs 
 
