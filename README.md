@@ -2,7 +2,7 @@
 
 👨‍💻 Sou Desenvolvedor Front-End e às vezes crio uns bugs<br>
 
-#### Linguagens
+### Linguagens
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="width:50px" />
@@ -13,6 +13,6 @@
 
 <br>
 
-#### Contato
+### Contato
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<mailto:davihenrique.ads@gmail.com>)
