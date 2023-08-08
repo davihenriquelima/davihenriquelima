@@ -1,13 +1,6 @@
 ## Olá 👽️
 
-☕️  sou viciado em café e <br>
-👨‍💻 às vezes crio uns bugs 
-
-<br>
-
-![Davi Henrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davihenriquelima&show_icons=true&theme=tokyonight)
-
-<br>
+👨‍💻 Sou Desenvolvedor Front-End e às vezes crio uns bugs<br>
 
 ## Linguagens
 
