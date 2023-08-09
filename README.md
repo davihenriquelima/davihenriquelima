@@ -25,6 +25,7 @@
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=davihenriquelima&show_icons=true&bg_color=000000&text_color=b7fff1&title_color=84ffe6)
 
 </div>
+
 <br>
 
 ## Linguagens
@@ -34,4 +35,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width:50px" />     
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"style="width:130px"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"style="width:130px"/>
+</div>
+<br>
+<br>
+<div aling="center">
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davihenriquelima&bg_color=000000&color=00b3ff&line=adffe0&point=00ff9d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 </div>
