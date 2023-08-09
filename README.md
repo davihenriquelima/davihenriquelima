@@ -2,11 +2,15 @@
   <h1>Olá ☕</h1>
 </div>
 <div align="center">
-  <p>👨‍💻 Sou Desenvolvedor Front-End e às vezes crio uns bugs<br></p>
+  <p>👨‍💻 Sou Desenvolvedor Front-End e às vezes crio uns bugs</p>
 </div>
+
 <div align="center">
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrlFtvPvxFxrmQCsJlMmtfWDdFHHdvVCMnDrLvTGhkMVxKBzGclvgrTtcCNhcMwLfpJmRg">
-    <img src="https://github.com/davihenriquelima/davihenriquelima/assets/118781482/b76de03e-a4bf-4a27-a024-dcfab1da7522" style="height:20px">
+      <img src="https://img.icons8.com/?size=512&id=qyRpAggnV0zH&format=png" style="height:25px">
+  </a>
+  <a href="https://www.youtube.com/@davihenriquecoder">
+      <img src="https://img.icons8.com/?size=512&id=szxM3fi4e37N&format=png" style="height:27px">
   </a>
 </div>
 
