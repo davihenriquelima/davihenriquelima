@@ -4,6 +4,11 @@
 <div align="center">
   <p>👨‍💻 Sou Desenvolvedor Front-End e às vezes crio uns bugs<br></p>
 </div>
+<div align="center">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrlFtvPvxFxrmQCsJlMmtfWDdFHHdvVCMnDrLvTGhkMVxKBzGclvgrTtcCNhcMwLfpJmRg">
+    <img src="https://github.com/davihenriquelima/davihenriquelima/assets/118781482/b76de03e-a4bf-4a27-a024-dcfab1da7522" style="height:20px">
+  </a>
+</div>
 
 <br>
 
@@ -20,12 +25,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width:50px" />     
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"style="width:130px"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"style="width:130px"/>
-</div>
-
-<br>
-
-<div align="center">
-    
-[![GMAIL](https://github.com/davihenriquelima/davihenriquelima/blob/main/assets/118781482/5b846196-1809-4b7e-ab7b-12c7fb9b3660.png)](mailto:davihenrique.ads@gmail.com)
-
 </div>
