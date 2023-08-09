@@ -1,6 +1,9 @@
-<h1>Olá 👽️</h1>
-
-<p>👨‍💻 Sou Desenvolvedor Front-End e às vezes crio uns bugs<br></p>
+<div align="center">
+  <h1>Olá ☕</h1>
+</div>
+<div align="center">
+  <p>👨‍💻 Sou Desenvolvedor Front-End e às vezes crio uns bugs<br></p>
+</div>
 
 <br>
 
@@ -21,6 +24,8 @@
 
 <br>
 
-## Contato
+<div align="center">
+    
+[![GMAIL](https://github.com/davihenriquelima/davihenriquelima/blob/main/assets/118781482/5b846196-1809-4b7e-ab7b-12c7fb9b3660.png)](mailto:davihenrique.ads@gmail.com)
 
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<mailto:davihenrique.ads@gmail.com>)
+</div>
