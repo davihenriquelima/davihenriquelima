@@ -13,14 +13,19 @@
       <img src="https://img.icons8.com/?size=512&id=szxM3fi4e37N&format=png" style="height:27px">
   </a>
 </div>
-
 <br>
+<br>
+<div align="center">
+  <h1>🔥Stats</h1>
+</div>
 
-<h3>GitHub Stats:</h3>
+<div align="center">
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davihenriquelima&layout=donut&bg_color=000000&text_color=b7fff1&title_color=84ffe6)
-
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=davihenriquelima&show_icons=true&bg_color=000000&text_color=b7fff1&title_color=84ffe6)
+
+</div>
+<br>
 
 ## Linguagens
 
