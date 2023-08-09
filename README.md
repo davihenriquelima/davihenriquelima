@@ -6,8 +6,9 @@
 
 <h3>GitHub Stats:</h3>
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davihenriquelima&layout=donut&bg_color=000000&text_color=b7fff1&title_color=84ffe6)](https://github.com/davihenriquelima/github-readme-stats)
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=davihenriquelima&show_icons=true&bg_color=000000&text_color=b7fff1&title_color=84ffe6)
+![Top Langs](https://github-readme-stats-davihenriquelima.vercel.app/api/top-langs/?username=davihenriquelima&layout=donut&bg_color=000000&text_color=b7fff1&title_color=84ffe6)
+
+![GitHub Stats](https://github-readme-stats-davihenriquelima.vercel.app/api?username=davihenriquelima&show_icons=true&bg_color=000000&text_color=b7fff1&title_color=84ffe6)
 
 ## Linguagens
 
