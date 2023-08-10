@@ -1,6 +1,7 @@
 <div align="center">
-  <h1>Olá ☕</h1>
+  <img src="https://github.com/davihenriquelima/davihenriquelima/assets/118781482/6ef1a8a9-a49f-496d-97b4-07ff3d8e7db1" width="140px">
 </div>
+
 <div align="center">
   <p>👨‍💻 Sou Desenvolvedor Front-End e às vezes crio uns bugs</p>
 </div>
@@ -19,7 +20,7 @@
 
 <div align="center">
     
-## Stats
+  <img src="https://github.com/davihenriquelima/davihenriquelima/assets/118781482/8f6a7c00-e542-44aa-a7fa-b8e0725c0406" width="150px">
 
 </div>
 
