@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <a href="https://mailto:davihenrique.ads@gmail.com">
+  <a href="mailto:davihenrique.ads@gmail.com">
     <img src="https://img.icons8.com/?size=512&id=qyRpAggnV0zH&format=png" style="height:25px">
   </a>
   <a href="https://www.youtube.com/@davihenriquecoder">
