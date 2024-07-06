@@ -10,7 +10,7 @@
   <a href="mailto:davihenrique.ads@gmail.com">
     <img src="https://img.icons8.com/?size=512&id=qyRpAggnV0zH&format=png" style="height:25px">
   </a>
-  <a href="https://www.youtube.com/@davicodes">
+  <a href="https://www.youtube.com/@davihenriquedev">
     <img src="https://img.icons8.com/?size=512&id=szxM3fi4e37N&format=png" style="height:27px">
   </a>
   <a href="https://www.linkedin.com/in/davihenriquelima">
