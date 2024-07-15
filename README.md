@@ -31,17 +31,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30px" />
 </div>
-    
-<br>
-<br>
 
-<div aling="center">
+<div align="center"> 
 
-![Davi Henrique's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davihenriquelima&bg_color=000000&color=00b3ff&line=adffe0&point=00ff9d&area=true&hide_border=true)
+## Contate-me 
 
 </div>
-
-## Contate-me
 
 <div align="center">
   <a href="https://www.youtube.com/@davihenriquedev">
