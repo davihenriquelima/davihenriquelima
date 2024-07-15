@@ -1,24 +1,4 @@
 <div align="center">
-  <img src="https://github.com/davihenriquelima/davihenriquelima/assets/118781482/6ef1a8a9-a49f-496d-97b4-07ff3d8e7db1" width="140px">
-</div>
-
-<div align="center">
-  <p>👨‍💻 Sou Desenvolvedor e às vezes crio uns bugs. Bom, quase sempre.</p>
-</div>
-
-<div align="center">
-  <a href="https://www.youtube.com/@davihenriquedev">
-    <img src="https://img.icons8.com/?size=512&id=szxM3fi4e37N&format=png" style="height:27px">
-  </a>
-  <a href="https://www.linkedin.com/in/davihenriquelima">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" style="height:27px">
-  </a>
-</div>
-
-<br>
-<br>
-
-<div align="center">
     
   <img src="https://github.com/davihenriquelima/davihenriquelima/assets/118781482/8f6a7c00-e542-44aa-a7fa-b8e0725c0406" width="150px">
 
@@ -59,4 +39,15 @@
 
 ![Davi Henrique's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davihenriquelima&bg_color=000000&color=00b3ff&line=adffe0&point=00ff9d&area=true&hide_border=true)
 
+</div>
+
+## Contate-me
+
+<div align="center">
+  <a href="https://www.youtube.com/@davihenriquedev">
+    <img src="https://img.icons8.com/?size=512&id=szxM3fi4e37N&format=png" style="height:27px">
+  </a>
+  <a href="https://www.linkedin.com/in/davihenriquelima">
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" style="height:27px">
+  </a>
 </div>
