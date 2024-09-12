@@ -43,7 +43,7 @@
   <a href="https://www.youtube.com/@davihenriquedev">
     <img src="https://img.icons8.com/?size=512&id=szxM3fi4e37N&format=png" style="height:27px">
   </a>
-  <a href="https://www.linkedin.com/in/davihenriquelima">
+  <a href="https://www.linkedin.com/in/davihenriquedev">
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" style="height:27px">
   </a>
 </div>
