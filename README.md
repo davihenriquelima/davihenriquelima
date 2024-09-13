@@ -10,12 +10,6 @@
 
 </div>
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=davihenriquelima&show_icons=true&bg_color=000000&text_color=b7fff1&title_color=84ffe6)
-
-</div>
-
 <br>
 
 <div align="center">
