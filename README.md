@@ -12,7 +12,11 @@
 
 <br>
 
+<div align="center">
+
 ## Tools
+
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30px" />
@@ -25,7 +29,7 @@
 
 <div align="center"> 
 
-## Contate-me 
+## My Social Networks and Professional Profiles
 
 </div>
 
@@ -35,5 +39,11 @@
   </a>
   <a href="https://www.linkedin.com/in/davihenriquedev">
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" style="height:27px">
+  </a>
+  <a href="https://www.instagram.com/@davihenriquedev">
+    <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" style="height:27px">
+  </a>
+  <a href="https://www.tiktok.com/@davihenriquedev"">
+    <img src="https://img.icons8.com/?size=100&id=118640&format=png&color=000000" style="height:27px">
   </a>
 </div>
